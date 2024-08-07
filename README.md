@@ -1,8 +1,15 @@
 # dogceoapi
 
-A new Flutter project.
+Flutter application that fetches data from the Dog
+CEO API
+
+Dependencies
+http: ^1.2.2
 
 ## Getting Started
+
+This Application consist of a home and a detailed page. 
+Select a dog breed from the List to view details. 
 
 This project is a starting point for a Flutter application.
 
